@@ -15,10 +15,10 @@ https://abrarchowdhry98.github.io/Code-Quiz/
 https://github.com/AbrarChowdhry98/Code-Quiz
 
 # Screenshot for Code Quiz Challenge
-https://github.com/AbrarChowdhry98/Code-Quiz/blob/main/assets/images/Screenshot%202021-10-22%20140210.jpg
+![04-web-apis-homework-demo](https://github.com/AbrarChowdhry98/Code-Quiz/blob/main/assets/images/Screenshot%202021-10-22%20140210.jpg)
 
 # The Markup
-![04-web-apis-homework-demo](https://github.com/AbrarChowdhry98/Code-Quiz/blob/main/Assets/images/04-web-apis-homework-demo.gif)
+![04-web-apis-homework-demo](https://github.com/AbrarChowdhry98/Code-Quiz/blob/main/assets/images/04-web-apis-homework-demo.gif)
 
 # Table of Contents
 
