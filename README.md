@@ -9,13 +9,13 @@ I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
 SO THAT I can gauge my progress compared to my peers 
 
 # URL
-
+https://abrarchowdhry98.github.io/Code-Quiz/
 
 # Abrar Chowdhry GitHub Repository
 https://github.com/AbrarChowdhry98/Code-Quiz
 
 # Screenshot for Code Quiz Challenge
-
+https://github.com/AbrarChowdhry98/Code-Quiz/blob/main/assets/images/Screenshot%202021-10-22%20140210.jpg
 
 # The Markup
 ![04-web-apis-homework-demo](https://github.com/AbrarChowdhry98/Code-Quiz/blob/main/Assets/images/04-web-apis-homework-demo.gif)
