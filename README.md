@@ -18,7 +18,7 @@ SO THAT I can gauge my progress compared to my peers
 
 
 # The Markup
-![04-web-apis-homework-demo]()
+![04-web-apis-homework-demo](https://github.com/AbrarChowdhry98/Code-Quiz/blob/main/Assets/images/04-web-apis-homework-demo.gif)
 
 # Table of Contents
 
